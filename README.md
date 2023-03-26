@@ -15,3 +15,10 @@
 
 #### できたらほしい（more）
   - **react-hook-form、react-router-domなどのライブラリの理解**
+
+### 起動方法
+```
+$ git checkout develop
+$ yarn install (またはnpm install)
+$ yarn start (またはnpm start)
+```
